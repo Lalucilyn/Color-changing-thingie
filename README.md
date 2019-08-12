@@ -1,29 +1,3 @@
-# newthing
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#Color changing thingie
+A totally useless but kinda cute Vue app made on a lazy sunday evening. All it does is randomly change the colors on a grid. Made for fun and nothing more. It uses two of my favorite things ever: VueJs and CSS grid.
+You may play with it here: https://dist-gthmtbsdne.now.sh/
